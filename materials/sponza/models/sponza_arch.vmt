@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/sponza_arch_diff"
+    $bumpmap "sponza/sponza_arch_nm"
+}

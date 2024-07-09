@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/models/vase_hanging_diff"
+    $bumpmap "sponza/models/vase_hanging_nm"
+}

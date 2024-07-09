@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/models/vase_plant_diff"
+    $bumpmap "sponza/models/vase_plant_nm"
+
+    $nocull 1
+    
+    $alphatest 1
+    $alphatestreference 0.25
+}

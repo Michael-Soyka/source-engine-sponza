@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/models/sponza_column_c_diff"
+    $bumpmap "sponza/models/sponza_column_c_nm"
+}

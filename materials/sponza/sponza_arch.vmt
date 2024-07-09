@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+    $basetexture "sponza/sponza_arch_diff"
+    $bumpmap "sponza/sponza_arch_nm"
+
+    $surfaceprop "concrete"
+
+    %keywords "sponza"
+}

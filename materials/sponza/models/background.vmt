@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/models/background"
+    $bumpmap "sponza/models/background_nm"
+}

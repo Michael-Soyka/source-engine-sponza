@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+    $basetexture "sponza/models/sponza_curtain_green_diff"
+    $bumpmap "sponza/models/sponza_curtain_nm"
+}
