@@ -5,7 +5,7 @@ COMPILE = True
 
 STUDIO_PATH = r"C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\studiomdl.exe"
 GAME_PATH = r"C:\Users\source-engine-slut\Desktop\source-sdk-vs2022\sp\game\mod_hl2"
-FLAGS = "-nop4 -verbose"
+FLAGS = "-nop4 -verbose -fastbuild"
 
 basic_path = "props_sponza"
 basic_material_path = None
